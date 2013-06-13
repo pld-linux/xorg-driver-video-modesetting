@@ -1,12 +1,12 @@
 Summary:	X.org generic video modesetting driver
 Summary(pl.UTF-8):	Ogólny sterownik obrazu X.org oparty na funkcji modesetting
 Name:		xorg-driver-video-modesetting
-Version:	0.7.0
+Version:	0.8.0
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-modesetting-%{version}.tar.bz2
-# Source0-md5:	38e64eb09cef9bdf1de400bbe9818321
+# Source0-md5:	1a25d6210257d4e493daf048f8b705a9
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
